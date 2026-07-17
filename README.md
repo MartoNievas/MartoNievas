@@ -1,16 +1,13 @@
-## Hi there 👋
+# Martin Nievas Wilberger
 
-<!--
-**MartoNievas/MartoNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student at Universidad de Buenos Aires (UBA), interested in systems programming and how things work under the hood: parsers, automata, and Unix internals.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, Python, Haskell, Prolog, Assembly
+- **Tools:** Git, Make, Linux
+
+## GitHub stats
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartoNievas&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartoNievas&layout=compact)
