@@ -1,11 +1,13 @@
 # Martin Nievas Wilberger
 
-Computer science student at Universidad de Buenos Aires (UBA), interested in systems programming and how things work under the hood: parsers, automata, and Unix internals.
+Computer Science undergraduate student at Universidad de Buenos Aires (UBA). Focused on Systems Programming, Theoretical Computer Science, and how systems work under the hood, with a strong interest in Computational Complexity, Parsers, Automata, and Probabilistic Programming Languages (PPL).
 
-## Stack
+## Technical Skill Set
 
-- **Languages:** C, C++, Python, Haskell, Prolog, Assembly, Rust
-- **Tools:** Git, Make, Linux
+* **Programming Languages:** Rust, C, Haskell, C++, Python, Bash scripting, Prolog, Assembly (ordered by proficiency).
+* **Systems & Environment:** System Programming, Unix/Linux internals, System Configuration, Docker.
+* **Theory & Frameworks:** Computational Complexity, Mathematical Statistics, PyTorch, NumPy.
+* **Tools:** Git, Make.
 
 ## GitHub stats
 
