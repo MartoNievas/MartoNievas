@@ -4,7 +4,7 @@ Computer science student at Universidad de Buenos Aires (UBA), interested in sys
 
 ## Stack
 
-- **Languages:** C, C++, Python, Haskell, Prolog, Assembly
+- **Languages:** C, C++, Python, Haskell, Prolog, Assembly, Rust
 - **Tools:** Git, Make, Linux
 
 ## GitHub stats
