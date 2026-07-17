@@ -9,5 +9,5 @@ Computer science student at Universidad de Buenos Aires (UBA), interested in sys
 
 ## GitHub stats
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartoNievas&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartoNievas&layout=compact)
+![Martin's GitHub stats](https://own-github-readme-stats-blond.vercel.app/api?username=MartoNievas&show_icons=true&theme=default)
+![Top languages](https://own-github-readme-stats-blond.vercel.app/api/top-langs/?username=MartoNievas&layout=compact)
