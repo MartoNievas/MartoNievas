@@ -4,9 +4,9 @@ Computer Science undergraduate student at Universidad de Buenos Aires (UBA). Foc
 
 ## Technical Skill Set
 
-* **Programming Languages:** Rust, C, Haskell, C++, Python, Bash scripting, Prolog, Assembly (ordered by proficiency).
+* **Programming Languages:** Rust, C, Haskell, C++, SmallTalk, Python, Bash scripting, Prolog, Assembly (ordered by proficiency).
 * **Systems & Environment:** System Programming, Unix/Linux internals, System Configuration, Docker.
-* **Theory & Frameworks:** Computational Complexity, Mathematical Statistics, PyTorch, NumPy.
+* **Theory & Frameworks:** Computational Complexity, Mathematical Statistics, PyTorch, NumPy, OOP.
 * **Tools:** Git, Make.
 
 ## GitHub stats
