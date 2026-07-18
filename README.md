@@ -11,5 +11,5 @@ Computer Science undergraduate student at Universidad de Buenos Aires (UBA). Foc
 
 ## GitHub stats
 
-![Martin's GitHub stats](https://own-github-readme-stats-blond.vercel.app/api?username=MartoNievas&show_icons=true&theme=default)
+![Martin's GitHub stats](https://own-github-readme-stats-blond.vercel.app/api?username=MartoNievas&show_icons=true&theme=dark)
 ![Top languages](https://own-github-readme-stats-blond.vercel.app/api/top-langs/?username=MartoNievas&layout=compact)
